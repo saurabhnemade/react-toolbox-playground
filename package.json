@@ -1,30 +1,23 @@
 {
-  "name": "react-toolbox-example",
-  "description": "A set of complementary tools to ReactJS.",
-  "version": "0.11.4",
+  "name": "react-toolbox-playground",
+  "description": "A reactjs toolbox playground",
+  "version": "0.0.1",
   "author": {
     "name": "React Toolbox Team",
     "url": "http://github.com/react-toolbox"
   },
   "contributors": [
     {
-      "name": "Javi Jimenez Villar",
-      "email": "javi.jimenez.villar@gmail.com",
-      "url": "http://soyjavi.com/"
-    },
-    {
-      "name": "Javi Velasco Arjona",
-      "email": "javier.velasco86@gmail.com",
-      "url": "http://javivelasco.com/"
+      "name": "Saurabh Nemade",
+      "email":"saurabhnemade@yandex.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-toolbox/react-toolbox-example.git"
+    "url": "git+https://github.com/saurabhnemade/react-toolbox-playground.git"
   },
   "bugs": {
-    "url": "https://github.com/react-toolbox/react-toolbox/issues",
-    "email": "issues@react-toolbox.com"
+    "url": "https://github.com/saurabhnemade/react-toolbox-playground/issues",
   },
   "keywords": [
     "components",
@@ -75,5 +68,5 @@
     "start": "node server"
   },
   "license": "MIT",
-  "homepage": "https://github.com/react-toolbox/react-toolbox-example#readme"
+  "homepage": "https://github.com/saurabhnemade/react-toolbox-playground#readme"
 }
