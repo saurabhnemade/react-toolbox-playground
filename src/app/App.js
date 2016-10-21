@@ -7,6 +7,17 @@ import ChipTest from './ChipTest/ChipTest.js';
 import DatePickerTest from './DatePickerTest/DatePickerTest.js';
 import DialogTest from './DialogTest/DialogTest.js';
 import CheckboxTest from './CheckboxTest/CheckboxTest.js';
+import FontIconTest from './FontIconTest/FontIconTest.js';
+import InputTest from './InputTest/InputTest.js';
+import LayoutTest from './LayoutTest/LayoutTest.js';
+import LinkTest from './LinkTest/LinkTest.js';
+import ListTest from './ListTest/ListTest.js';
+import MenuTest from './MenuTest/MenuTest.js';
+import NavigationTest from './NavigationTest/NavigationTest.js';
+import ProgressbarTest from './ProgressbarTest/ProgressbarTest.js';
+import RadioButtonTest from './RadioButtonTest/RadioButtonTest.js';
+import SliderTest from './SliderTest/SliderTest.js';
+import SnackbarTest from './SnackbarTest/SnackbarTest.js';
 import SuccessButton from './SuccessButton.js';    // A button with complex overrides
 import { Button, IconButton } from 'react-toolbox/lib/button'; // Bundled component import
 
@@ -47,6 +58,25 @@ const App = () => (
       <DatePickerTest />
       <br />
       <DialogTest />
+      <br />
+      <FontIconTest />
+      <InputTest />
+      <br />
+      <LayoutTest />
+      <br />
+      <LinkTest />
+      <br />
+      <ListTest />
+      <br />
+      <MenuTest />
+      <br />
+      <NavigationTest />
+      <br />
+      <ProgressbarTest />
+      <br />
+      <SliderTest />
+      <br />
+      <SnackbarTest />
     </section>
   </div>
 );
