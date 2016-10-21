@@ -1,4 +1,4 @@
-# react-toolbox-example
+# react-toolbox-playground
 
 ### Getting Started
 1. Clone this repository
