@@ -18,6 +18,11 @@ import ProgressbarTest from './ProgressbarTest/ProgressbarTest.js';
 import RadioButtonTest from './RadioButtonTest/RadioButtonTest.js';
 import SliderTest from './SliderTest/SliderTest.js';
 import SnackbarTest from './SnackbarTest/SnackbarTest.js';
+import SwitchTest from './SwitchTest/SwitchTest.js';
+import TableTest from './TableTest/TableTest.js';
+import TabsTest from './TabsTest/TabsTest.js';
+import TooltipTest from './TooltipTest/TooltipTest.js';
+import TimePickerTest from './TimePickerTest/TimePickerTest.js';
 import SuccessButton from './SuccessButton.js';    // A button with complex overrides
 import { Button, IconButton } from 'react-toolbox/lib/button'; // Bundled component import
 
@@ -77,6 +82,16 @@ const App = () => (
       <SliderTest />
       <br />
       <SnackbarTest />
+      <br />
+      <SwitchTest />
+      <br />
+      <TableTest />
+      <br />
+      <TabsTest />
+      <br />
+      <TooltipTest />
+      <br />
+      <TimePickerTest />
     </section>
   </div>
 );
