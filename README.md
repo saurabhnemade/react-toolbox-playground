@@ -1,5 +1,7 @@
 # react-toolbox-playground
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saurabhnemade/react-toolbox-playground.svg)](https://greenkeeper.io/)
+
 ### Getting Started
 1. Clone this repository
 2. Run `npm install && npm start`
